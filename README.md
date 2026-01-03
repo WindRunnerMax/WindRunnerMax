@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Czy's GitHub Stats](https://github-readme-stats-touchczy.vercel.app/api?icon_color=333&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&include_all_commits=true)
+![Czy's GitHub Stats](https://github-readme-stats-touchczy.vercel.app/api?icon_color=333&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&include_all_commits=true&number_format=long)
